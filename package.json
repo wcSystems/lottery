@@ -26,7 +26,7 @@
     },
     "dependencies": {
         "EventEmitter": "^1.0.0",
-        "chart.js": "^2.8.0",
+        "chart.js": "^2.9.4",
         "dom-tools": "^0.1.4",
         "eventemitter3": "^2.0.3",
         "flotjs": "^0.1.3",
